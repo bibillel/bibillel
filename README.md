@@ -4,7 +4,7 @@
 
 Après une formation en développement web chez OpenClassrooms, je poursuis mon apprentissage à Epitech Lyon.
 
-**À la recherche d’une alternance : 3 semaines en entreprise / 1 semaine à l’école.**
+**Actuellement en alternance, en parallèle de mon Bachelor CDA à Epitech Lyon.**
 
 ### Mon parcours et mes apprentissages
 
