@@ -1,28 +1,30 @@
 # Bonjour, je suis Billel Ezzamari 👋
 
-**Développeur full-stack junior · Bachelor CDA à Epitech Lyon**
+**Développeur full-stack junior en alternance chez Albert Deloin**
 
-Après une formation en développement web chez OpenClassrooms, je poursuis mon apprentissage à Epitech Lyon.
+Après une formation en développement web chez OpenClassrooms, je prépare le Bachelor Concepteur Développeur d’Applications à Epitech Lyon.
 
-**Actuellement en alternance, en parallèle de mon Bachelor CDA à Epitech Lyon.**
+[Voir mon portfolio](https://bibillel.github.io/)
 
-### Mon parcours et mes apprentissages
+## Expérience en alternance
 
-- **Développement web :** interfaces React et Sass, API Node.js avec Express et MongoDB.
-- **Epitech :** piscine C et approfondissement des bases de programmation.
-- **Exploration :** TypeScript dans mon portfolio et Next.js à travers un exercice de tableau de bord.
-- **Projet personnel :** conception d’une application de gestion de garage, avec Prisma et PostgreSQL.
+Chez Albert Deloin, je développe mes compétences en Next.js et TypeScript, en conception d’API et en modélisation de relations SQL avec Prisma et MariaDB.
 
-### Mes projets
+J’aime partir du besoin, décomposer le problème et vérifier le résultat. Je cherche à écrire du code lisible et facile à faire évoluer.
 
-| Projet | Travail présenté |
-|---|---|
-| [Kasa](https://github.com/bibillel/projet-5) | Interface React/Sass, navigation et composants interactifs. |
-| [Mon Vieux Grimoire](https://github.com/bibillel/openclassroom-projet-D-veloppez-le-back-end-d-un-site-de-notation-de-livres) | API Node.js/Express/MongoDB, authentification et gestion des livres. Front-end fourni. |
-| [Portfolio](https://bibillel.github.io/) | Présentation de mon parcours et de mes projets avec React, TypeScript et Sass. |
-| [Exercice Next.js](https://github.com/bibillel/Exercice-technique-next.js) | Tableau de bord affichant des machines et des commandes depuis une API. |
-| [Garage — en cours](https://github.com/bibillel/site-de-garage) | Cadrage des fonctionnalités et modélisation des utilisateurs, clients, véhicules et interventions avec Prisma/PostgreSQL. |
+## Stack
 
-### Ma démarche
+![TypeScript, React, Next.js, Node.js et Prisma](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,prisma)
 
-Comprendre le besoin, décomposer le problème, construire une solution et vérifier le résultat. Mon objectif est de renforcer mes bases et de gagner progressivement en autonomie.
+- **Front-end** · React, Next.js, TypeScript, Sass
+- **Back-end** · Node.js, Express, conception d’API
+- **Données** · Prisma, MariaDB, PostgreSQL, MongoDB
+
+## Projets
+
+| Projet | Ce que j’ai réalisé |
+| --- | --- |
+| [Site de garage](https://github.com/bibillel/site-de-garage) · En cours | Cadrage des fonctionnalités et modélisation des clients, véhicules et interventions avec Prisma et PostgreSQL. |
+| [Tableau de bord Next.js](https://github.com/bibillel/Exercice-technique-next.js) | Affichage de machines et de commandes à partir d’une API. |
+| [Mon Vieux Grimoire](https://github.com/bibillel/openclassroom-projet-D-veloppez-le-back-end-d-un-site-de-notation-de-livres) | API Node.js, Express et MongoDB pour l’authentification et la gestion des livres. Front-end fourni. |
+| [Kasa](https://github.com/bibillel/projet-5) | Interface React et Sass avec navigation et composants interactifs. |
